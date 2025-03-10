@@ -1,0 +1,95 @@
+body{
+    background-color: #202544;
+    padding: 464px 300px ;
+   
+    
+}
+div{
+    margin-bottom: 40px;
+}
+main{
+    width: 1000px;
+    height: 210px;
+    background-color:#3b3f5b;
+    margin:  auto;
+    padding: 50px;
+    display: inline-block;
+    border-radius: 23px;
+    text-align: center;
+    
+}
+
+.nav_list{
+    display: inline-block;
+}
+li{
+    display: inline-block;
+    
+}
+a{
+    color: #FF529B;
+    font-weight: 400;
+    font-size: 16px;
+    font-family: IBM Plex Sans;
+}
+.passive{
+    color: #B6BEF2;
+}
+.photo_div{
+    display: inline-block;
+    text-align: center;
+}
+.caption_div{
+    display: inline-block;
+    margin-left: 16px;
+    text-align: center;
+
+    
+
+}
+h2{
+    font-size: 22px;
+    font-weight: 400px;
+    font-family: IBM Plex Sans;
+    color: #B6BEF2;
+}
+p{
+    font-size: 16px;
+    font-weight: 400px;
+    color: #FF529B;
+    font-family: IBM Plex Sans;
+    margin-top: 32px;
+}
+span{color: #B6BEF2;
+    font-size: 16px;
+    font-weight: 400px;
+    font-family: IBM Plex Sans}
+   
+.btn_div{
+        display: inline-block;
+        text-align: center;
+        margin-left: 485px;
+        
+    }  
+.download{
+        background-color: #FF529B;
+        color: aliceblue;
+        width: 174px;
+        height: 54px;
+        text-align: center;
+        border-radius: 10px;
+        display: block;
+       
+        
+    }
+
+.stars{
+        background-color: #171B34;
+        /* display: inline-block; */
+        width: 185px;
+        height: 41px;
+        color: aliceblue;
+        border-radius: 10px;
+        display: block;
+        margin-top: 16px;
+    }
